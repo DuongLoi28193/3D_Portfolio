@@ -131,12 +131,12 @@ const techStackIcons = [
     scale: 5,
     rotation: [0, -Math.PI / 2, 0],
   },
-  {
-    name: "Interactive Developer",
-    modelPath: "/models/three.js-transformed.glb",
-    scale: 0.05,
-    rotation: [0, 0, 0],
-  },
+  // {
+  //   name: "Interactive Developer",
+  //   modelPath: "/models/three.js-transformed.glb",
+  //   scale: 0.05,
+  //   rotation: [0, 0, 0],
+  // },
   {
     name: "Project Manager",
     modelPath: "/models/git-svg-transformed.glb",
